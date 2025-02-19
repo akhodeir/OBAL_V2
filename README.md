@@ -16,3 +16,10 @@ Significant improvement to OBAL (Open Board Ardupilot Linux)
 |Link | [here](https://github.com/HefnySco/OBAL) | here | [here](https://navio2.hipi.io/)
 
   
+Cons with initial OBAL:
+  1. Use analog Rx protocol (PPM)
+  2. Limited to GY-91 (only possible IMU)
+  3. Safety switch has electronic issue
+  4. No proper logic conversion (use mix of 5v and 3.3v with RPI)
+  5. Use old linux version which require re-compile to disable CONFIG_STRICT_DEVMEM
+  6. Use 32-bit Ardupilot applications
