@@ -23,3 +23,6 @@ Cons with initial OBAL:
   4. No proper logic conversion (use mix of 5v and 3.3v with RPI)
   5. Use old linux version which require re-compile to disable CONFIG_STRICT_DEVMEM
   6. Use 32-bit Ardupilot applications
+
+
+![image](https://github.com/user-attachments/assets/bde9b66d-7c74-42ae-bda8-1ca1fce99bd3)
