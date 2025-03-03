@@ -24,6 +24,17 @@ Cons with initial OBAL:
   5. Use old linux version which require re-compile to disable CONFIG_STRICT_DEVMEM
   6. Use 32-bit Ardupilot applications
 
+**Donation**
+
+Please consider donating for the project. There were tremendous effort added in this project. 
+Many prototype boards were built and a lot of tools were purchased to make this project become true.
+
+click image below to start donating :
+
 [
 ![Donate with PayPal](https://github.com/akhodeir/OBAL_V2/blob/main/photo/paypal-donate-button.png)
 ](https://www.paypal.com/donate/?hosted_button_id=LGAC3VKW2A8ZA)
+
+**Important**
+
+Use this project at your own risc. The authors and contributors will not be able to provide any help if PayPal complains about usage.
