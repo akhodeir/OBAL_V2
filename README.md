@@ -26,4 +26,4 @@ Cons with initial OBAL:
 
 [
 ![Donate with PayPal](https://github.com/akhodeir/OBAL_V2/blob/main/photo/paypal-donate-button.png)
-](www.paypal.com)
+](https://www.paypal.com/donate/?hosted_button_id=LGAC3VKW2A8ZA)
