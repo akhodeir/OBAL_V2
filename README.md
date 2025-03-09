@@ -12,7 +12,7 @@ Significant improvement to intial OBAL
 |Display | No | yes | No
 |Power module | No | Yes | Yes
 |License | Open source | Open source | Proprietary 
-|Price | < $40 | < $40 | $199
+|Price | < $60 | < $60 | $199
 |Link | [here](https://github.com/HefnySco/OBAL) | here | [here](https://navio2.hipi.io/)
 
   
