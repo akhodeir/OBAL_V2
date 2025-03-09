@@ -1,5 +1,5 @@
-# OBAL_V2
-Significant improvement to OBAL (Open Board Ardupilot Linux)
+# Open Board Auto-Pilot Linxu V2 (OBAL_V2)
+Significant improvement to intial OBAL
 
 |  | OBAL | OBAL_V2 | Navio2
 |--|---|--|--|
