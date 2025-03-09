@@ -10,7 +10,7 @@ Significant improvement to intial OBAL
 |Flight controller | prototype | complete system | complete system
 |IMU | GY-91 | GY-91 ,GY-912,..+more| MPU9250, LSM9DS1
 |Display | No | yes | No
-|Power moddule | No | Yes | Yes
+|Power module | No | Yes | Yes
 |License | Open source | Open source | Proprietary 
 |Price | < $40 | < $40 | $199
 |Link | [here](https://github.com/HefnySco/OBAL) | here | [here](https://navio2.hipi.io/)
