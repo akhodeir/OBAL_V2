@@ -22,7 +22,7 @@ This table outlines the **significant improvements** made from the initial **OBA
 | **Power Module**        | No            | Yes            | Yes                |
 | **License**             | Open source   | Open source    | Proprietary        |
 | **Price**               | < $60         | < $60          | $199               |
-| **Link**                | [here](#)     | [here](#)      | [here](#)          |
+| **Link**                | [here](https://github.com/HefnySco/OBAL)     | [here](#)      | [here](https://navio2.hipi.io/)        |
 
 ---
 
