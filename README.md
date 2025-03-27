@@ -61,8 +61,9 @@ This table outlines the **significant improvements** made from the initial **OBA
   
 ---
 
+## [Donation] Your support is invaluable to this project!
 
-**Donation**
+Countless hours of hard work, prototyping, and investment in tools and materials have gone into making this project a reality. If you appreciate the effort and would like to contribute, your donation will help us continue developing and improving OBAL_V2.
 
 Please consider donating for the project. There were tremendous effort added in this project. 
 Many prototype boards were built and a lot of tools were purchased to make this project become true.
