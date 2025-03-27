@@ -1,28 +1,47 @@
 # Open Board Auto-Pilot Linux V2 (OBAL_V2)
 Significant improvement to intial OBAL
 
-|  | OBAL | OBAL_V2 | Navio2
-|--|---|--|--|
-|Linux Kernel |Bulleyes |Bookworm | Raspbian + ROS
-|Ardupilot | 32-bit | 64-bit | ?
-|Linux Configuration|Manual | Automatic via script | Manual 
-|Rx Protocol| PPM | IBUS and SBUS | PPM and SBUS
-|Flight controller | prototype | complete system | complete system
-|IMU | GY-91 | GY-91 ,GY-912,..+more| MPU9250, LSM9DS1
-|Display | No | yes | No
-|Power module | No | Yes | Yes
-|License | Open source | Open source | Proprietary 
-|Price | < $60 | < $60 | $199
-|Link | [here](https://github.com/HefnySco/OBAL) | here | [here](https://navio2.hipi.io/)
+# OBAL vs OBAL_V2 vs Navio2 - Comparison
 
-  
-Cons with initial OBAL:
-  1. Use analog Rx protocol (PPM)
-  2. Limited to GY-91 (only possible IMU)
-  3. Safety switch has electronic issue
-  4. No proper logic conversion (use mix of 5v and 3.3v with RPI)
-  5. Use old linux version which require re-compile to disable CONFIG_STRICT_DEVMEM
-  6. Use 32-bit Ardupilot applications
+## 🚀 Overview
+This table outlines the **significant improvements** made from the initial **OBAL** to **OBAL_V2** and compares it with the **Navio2** flight controller system.
+
+---
+
+## ⚙️ **Feature Comparison**
+
+| Feature                | OBAL          | OBAL_V2        | Navio2             |
+|------------------------|---------------|----------------|--------------------|
+| **Linux Kernel**        | Bulleyes      | Bookworm       | Raspbian + ROS     |
+| **Ardupilot**           | 32-bit        | 64-bit         | ?                  |
+| **Linux Configuration** | Manual        | Automatic via script | Manual        |
+| **Rx Protocol**         | PPM           | IBUS and SBUS  | PPM and SBUS       |
+| **Flight Controller**   | Prototype     | Complete system| Complete system    |
+| **IMU**                 | GY-91         | GY-91, GY-912, ... + more | MPU9250, LSM9DS1 |
+| **Display**             | No            | Yes            | No                 |
+| **Power Module**        | No            | Yes            | Yes                |
+| **License**             | Open source   | Open source    | Proprietary        |
+| **Price**               | < $60         | < $60          | $199               |
+| **Link**                | [here](#)     | [here](#)      | [here](#)          |
+
+---
+
+## ⚠️ **Cons with Initial OBAL:**
+- Uses **analog Rx protocol (PPM)**, limiting flexibility.
+- Limited to **GY-91 IMU** (only possible IMU).
+- **Safety switch** has electronic issues.
+- No proper **logic conversion** (mix of **5V and 3.3V** with Raspberry Pi).
+- Uses an **old Linux version**, requiring recompilation to disable **`CONFIG_STRICT_DEVMEM`**.
+- **32-bit Ardupilot** applications limit performance.
+
+---
+
+## ✅ **Summary**
+**OBAL_V2** offers significant improvements, including a **64-bit architecture**, more flexible Rx protocols, better IMU support, and an automated setup process via script. In comparison, **Navio2** provides a proprietary solution with a higher price tag but with more features. 🚀  
+Let me know if you'd like more details or have any questions! 😃
+
+---
+
 
 **Donation**
 
