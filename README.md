@@ -6,6 +6,14 @@ OBAL_V2 is a next-generation automation platform designed to streamline and simp
 
 Whether you're a developer, hobbyist, or a drone enthusiast, OBAL_V2 is designed to help you easily set up and run your systems with minimal effort. Our goal is to provide you with the tools you need to succeed in your projects, whether it's automating flight controllers, working with IMUs, or streaming live video from your Pi Camera.
 
+### Why OBAL_V2?  
+- **64-bit Architecture** 🏎️ - Faster and more efficient than previous versions.  
+- **Automated Setup** ⚙️ - No manual kernel tweaking; everything is configured via script.  
+- **Multi-Sensor Support** 📡 - Works with multiple IMUs, GPS modules, and ADCs.  
+- **AI & Computer Vision Ready** 🤖 - With the powerful Raspberry Pi 4, the **Pi Camera Module 3** can be leveraged for AI-based applications such as object detection, autonomous navigation, and real-time video analysis.  
+- **Affordable & Open-Source** 💡 - A high-performance alternative to expensive, proprietary flight controllers.  
+
+
 Feel free to explore the various setup guides, troubleshooting tips, and features that OBAL_V2 offers. If you have any questions or suggestions, don't hesitate to reach out—we're here to help you make the most of your experience with OBAL_V2!
 
 Check out the [OBAL_V2 Wiki](https://github.com/akhodeir/OBAL_V2/wiki) for all the details.
@@ -52,15 +60,6 @@ This table outlines the **significant improvements** made from the initial **OBA
 - **32-bit Ardupilot** applications limit performance.
 
 ---
-## 💡 **OBAL_V2 Improvements**  
-**OBAL_V2** offers significant improvements, including :
-- **64-bit architecture** for better performance.
-- More **flexible Rx protocols** (IBUS, SBUS).
-- Better **IMU support** (GY-91, GY-912, and more).
-- **Automated setup** via script, simplifying the process.
-  
----
-
 ## [Donation] Your support is invaluable to this project!
 
 Countless hours of hard work, prototyping, and investment in tools and materials have gone into making this project a reality. If you appreciate the effort and would like to contribute, your donation will help us continue developing and improving OBAL_V2.
