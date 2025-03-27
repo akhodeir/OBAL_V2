@@ -48,7 +48,7 @@ This table outlines the **significant improvements** made from the initial **OBA
 ---
 
 ## ⚠️ **Cons with Initial OBAL:**
-- Uses **analog Rx protocol (PPM) or (PWM) **, limiting flexibility.
+- Uses **analog Rx protocol (PPM) or (PWM)**, limiting flexibility.
 - Limited to **GY-91 IMU** (only possible IMU).
 - **Safety switch** is not well designed.
 - No proper **logic conversion** (mix of **5V and 3.3V** logical levels with Raspberry Pi).
