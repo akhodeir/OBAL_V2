@@ -58,4 +58,4 @@ click image below to start donating :
 
 **Important**
 
-Use this project at your own risc. The authors and contributors will not be able to provide any help if PayPal complains about usage.
+Use this project at your own risk. 
