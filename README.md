@@ -35,11 +35,13 @@ This table outlines the **significant improvements** made from the initial **OBA
 - **32-bit Ardupilot** applications limit performance.
 
 ---
-
-## ✅ **Summary**
-**OBAL_V2** offers significant improvements, including a **64-bit architecture**, more flexible Rx protocols, better IMU support, and an automated setup process via script. In comparison, **Navio2** provides a proprietary solution with a higher price tag but with more features. 🚀  
-Let me know if you'd like more details or have any questions! 😃
-
+## 💡 **OBAL_V2 Improvements**  
+**OBAL_V2** offers significant improvements, including :
+- **64-bit architecture** for better performance.
+- More **flexible Rx protocols** (IBUS, SBUS).
+- Better **IMU support** (GY-91, GY-912, and more).
+- **Automated setup** via script, simplifying the process.
+  
 ---
 
 
