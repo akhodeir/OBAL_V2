@@ -18,13 +18,9 @@ Feel free to explore the various setup guides, troubleshooting tips, and feature
 
 Check out the [OBAL_V2 Wiki](https://github.com/akhodeir/OBAL_V2/wiki) for all the details.
 
+Note: The board/project is not limited to Ardupilot. It can be used with any other flight controller such as PX4, INAV, Betaflight, your own flight controler,...etc
 
 Happy building! 🚁✨
-
-# Open Board Auto-Pilot Linux V2 (OBAL_V2)
-The project is a significant improvement to intial OBAL.
-
-The board/project is not limited to Ardupilot. It can be used with any other flight controller such as PX4, INAV, Betaflight, your own flight controler,...etc
 
 # OBAL vs OBAL_V2 vs Navio2 - Comparison
 
