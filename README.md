@@ -32,7 +32,7 @@ This table outlines the **significant improvements** made from the initial **OBA
 | **Linux Kernel**        | Bulleyes      | Bookworm       | Raspbian + ROS     |
 | **Ardupilot**           | 32-bit        | 64-bit         | ?                  |
 | **Linux Configuration** | Manual        | Automatic via script | Manual        |
-| **Rx Protocol**         | PPM           | IBUS and SBUS  | PPM and SBUS       |
+| **Rx Protocol**         | PPM/PWM           | IBUS and SBUS  | PPM and SBUS       |
 | **Flight Controller**   | Prototype     | Complete system| Complete system    |
 | **IMU**                 | GY-91         | GY-91, GY-912, ... + more | MPU9250, LSM9DS1 |
 | **Display**             | No            | Yes            | No                 |
@@ -44,10 +44,10 @@ This table outlines the **significant improvements** made from the initial **OBA
 ---
 
 ## ⚠️ **Cons with Initial OBAL:**
-- Uses **analog Rx protocol (PPM)**, limiting flexibility.
+- Uses **analog Rx protocol (PPM) or (PWM) **, limiting flexibility.
 - Limited to **GY-91 IMU** (only possible IMU).
-- **Safety switch** has electronic issues.
-- No proper **logic conversion** (mix of **5V and 3.3V** with Raspberry Pi).
+- **Safety switch** is not well designed.
+- No proper **logic conversion** (mix of **5V and 3.3V** logical levels with Raspberry Pi).
 - Uses an **old Linux version**, requiring recompilation to disable **`CONFIG_STRICT_DEVMEM`**.
 - **32-bit Ardupilot** applications limit performance.
 
