@@ -1,3 +1,18 @@
+# Welcome to the OBAL_V2 Wiki
+
+Welcome to the official OBAL_V2 github page! 🚀
+
+OBAL_V2 is a next-generation automation platform designed to streamline and simplify the configuration of Raspberry Pi-based systems for Ardupilot, Pi Camera, and more. This platform takes advantage of modern Linux capabilities and offers an easy-to-use Python script to automatically configure your system for optimal performance.
+
+Whether you're a developer, hobbyist, or a drone enthusiast, OBAL_V2 is designed to help you easily set up and run your systems with minimal effort. Our goal is to provide you with the tools you need to succeed in your projects, whether it's automating flight controllers, working with IMUs, or streaming live video from your Pi Camera.
+
+Feel free to explore the various setup guides, troubleshooting tips, and features that OBAL_V2 offers. If you have any questions or suggestions, don't hesitate to reach out—we're here to help you make the most of your experience with OBAL_V2!
+
+Check out the [OBAL_V2 Wiki](https://github.com/akhodeir/OBAL_V2/wiki) for all the details.
+
+
+Happy building! 🚁✨
+
 # Open Board Auto-Pilot Linux V2 (OBAL_V2)
 Significant improvement to intial OBAL
 
