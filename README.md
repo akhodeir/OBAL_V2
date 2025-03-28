@@ -22,6 +22,8 @@ Note: The board/project is not limited to Ardupilot. It can be used with any oth
 
 Happy building! 🚁✨
 
+![3D PCB](photo/pcb_3d.png)
+
 # OBAL vs OBAL_V2 vs Navio2 - Comparison
 
 ## 🚀 Overview
@@ -66,7 +68,7 @@ Many prototype boards were built and a lot of tools were purchased to make this 
 click image below to start donating :
 
 [
-![Donate with PayPal](https://github.com/akhodeir/OBAL_V2/blob/main/photo/paypal-donate-button.png)
+![Donate with PayPal](photo/paypal-donate-button.png)
 ](https://www.paypal.com/donate/?hosted_button_id=LGAC3VKW2A8ZA)
 
 **Important**
