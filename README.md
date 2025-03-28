@@ -26,6 +26,9 @@ Happy building! 🚁✨
 
 ![Drone](photo/IMG_9943.jpeg)
 
+![Armed](photo/IMG_9940.jpeg)
+
+
 
 # OBAL vs OBAL_V2 vs Navio2 - Comparison
 
