@@ -24,6 +24,9 @@ Happy building! 🚁✨
 
 ![3D PCB](photo/pcb_3d.png)
 
+![Drone](photo/IMG_9943.jpeg)
+
+
 # OBAL vs OBAL_V2 vs Navio2 - Comparison
 
 ## 🚀 Overview
