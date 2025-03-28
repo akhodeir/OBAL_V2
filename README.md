@@ -22,7 +22,7 @@ Note: The board/project is not limited to Ardupilot. It can be used with any oth
 
 Happy building! 🚁✨
 
-![3D PCB](photo/pcb_3d.png)
+![3D PCB](photo/3D_board.png)
 
 ![Drone](photo/IMG_9943.jpeg)
 
