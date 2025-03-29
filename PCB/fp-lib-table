@@ -1,0 +1,13 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RASPBERRY_PI_4B_4GB")(type "KiCad")(uri "${KIPRJMOD}/Libs/RASPBERRY_PI_4B_4GB")(options "")(descr ""))
+  (lib (name "SS12D07VG4")(type "KiCad")(uri "${KIPRJMOD}/Libs/SS12D07VG4")(options "")(descr ""))
+  (lib (name "TXS0108E")(type "KiCad")(uri "${KIPRJMOD}/Libs/TXS0108E")(options "")(descr ""))
+  (lib (name "ADS1115")(type "KiCad")(uri "${KIPRJMOD}/Libs/ADS1115")(options "")(descr ""))
+  (lib (name "KiCad-SSD1306-128x64-master")(type "KiCad")(uri "${KIPRJMOD}/Libs/KiCad-SSD1306-128x64-master")(options "")(descr ""))
+  (lib (name "IRLML6344TRPBF")(type "KiCad")(uri "${KIPRJMOD}/Libs/IRLML6344TRPBF")(options "")(descr ""))
+  (lib (name "PCA9685")(type "KiCad")(uri "${KIPRJMOD}/Libs/PCA9685")(options "")(descr ""))
+  (lib (name "RPI_Hat")(type "KiCad")(uri "${KIPRJMOD}/Libs/RPi_Hat_Template-master/footprints/RPI_Hat.pretty")(options "")(descr ""))
+  (lib (name "myLib_Footprint")(type "KiCad")(uri "${KIPRJMOD}/Libs/myLibs/myLib_Footprint.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Libs/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+)
