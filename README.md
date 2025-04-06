@@ -18,7 +18,7 @@ Feel free to explore the various setup guides, troubleshooting tips, and feature
 
 Check out the [Pi-Fly Wiki](https://github.com/akhodeir/Pi-Fly/wiki) for all the details.
 
-Note: The board/project is not limited to Ardupilot. It can be used with any other flight controller such as PX4, INAV, Betaflight, your own flight controler,...etc
+**Note**: The board/project is not limited to Ardupilot. It can be used with any other flight controller such as PX4, INAV, Betaflight, your own flight controler,...etc
 
 Happy building! 🚁✨
 
@@ -28,7 +28,7 @@ Happy building! 🚁✨
 
 ![Armed](photo/IMG_9940.jpeg)
 
-
+Note : The initial name of the project was OBAL_V2, the name was changed to Pi-Fly due to some political issues with the owner of initial OBAL !!
 
 # OBAL vs Pi-Fly vs Navio2 - Comparison
 
