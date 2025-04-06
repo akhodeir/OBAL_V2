@@ -1,12 +1,12 @@
-# Welcome to the OBAL_V2 Wiki
+# Welcome to the Pi-Fly Wiki
 
-Welcome to the official OBAL_V2 github page! 🚀
+Welcome to the official Pi-Fly github page! 🚀
 
-OBAL_V2 is a next-generation automation platform designed to streamline and simplify the configuration of Raspberry Pi-based systems for Ardupilot, Pi Camera, and more. This platform takes advantage of modern Linux capabilities and offers an easy-to-use Python script to automatically configure your system for optimal performance.
+Pi-Fly is a next-generation automation platform designed to streamline and simplify the configuration of Raspberry Pi-based systems for Ardupilot, Pi Camera, and more. This platform takes advantage of modern Linux capabilities and offers an easy-to-use Python script to automatically configure your system for optimal performance.
 
-Whether you're a developer, hobbyist, or a drone enthusiast, OBAL_V2 is designed to help you easily set up and run your systems with minimal effort. Our goal is to provide you with the tools you need to succeed in your projects, whether it's automating flight controllers, working with IMUs, or streaming live video from your Pi Camera.
+Whether you're a developer, hobbyist, or a drone enthusiast, Pi-Fly is designed to help you easily set up and run your systems with minimal effort. Our goal is to provide you with the tools you need to succeed in your projects, whether it's automating flight controllers, working with IMUs, or streaming live video from your Pi Camera.
 
-### Why OBAL_V2?  
+### Why Pi-Fly?  
 - **64-bit Architecture** 🏎️ - Faster and more efficient than previous versions.  
 - **Automated Setup** ⚙️ - No manual kernel tweaking; everything is configured via script.  
 - **Multi-Sensor Support** 📡 - Works with multiple IMUs, GPS modules, and ADCs.  
@@ -14,9 +14,9 @@ Whether you're a developer, hobbyist, or a drone enthusiast, OBAL_V2 is designed
 - **Affordable & Open-Source** 💡 - A high-performance alternative to expensive, proprietary flight controllers.  
 
 
-Feel free to explore the various setup guides, troubleshooting tips, and features that OBAL_V2 offers. If you have any questions or suggestions, don't hesitate to reach out—we're here to help you make the most of your experience with OBAL_V2!
+Feel free to explore the various setup guides, troubleshooting tips, and features that Pi-Fly offers. If you have any questions or suggestions, don't hesitate to reach out—we're here to help you make the most of your experience with Pi-Fly!
 
-Check out the [OBAL_V2 Wiki](https://github.com/akhodeir/OBAL_V2/wiki) for all the details.
+Check out the [Pi-Fly Wiki](https://github.com/akhodeir/Pi-Fly/wiki) for all the details.
 
 Note: The board/project is not limited to Ardupilot. It can be used with any other flight controller such as PX4, INAV, Betaflight, your own flight controler,...etc
 
@@ -30,16 +30,16 @@ Happy building! 🚁✨
 
 
 
-# OBAL vs OBAL_V2 vs Navio2 - Comparison
+# OBAL vs Pi-Fly vs Navio2 - Comparison
 
 ## 🚀 Overview
-This table outlines the **significant improvements** made from the initial **OBAL** to **OBAL_V2** and compares it with the **Navio2** flight controller system.
+This table outlines the **significant improvements** made from the initial **OBAL** to **Pi-Fly** and compares it with the **Navio2** flight controller system.
 
 ---
 
 ## ⚙️ **Feature Comparison**
 
-| Feature                | OBAL          | OBAL_V2        | Navio2             |
+| Feature                | OBAL          | Pi-Fly        | Navio2             |
 |------------------------|---------------|----------------|--------------------|
 | **Linux Kernel**        | Bulleyes      | Bookworm       | Raspbian + ROS     |
 | **Ardupilot**           | 32-bit        | 64-bit         | ?                  |
@@ -66,7 +66,7 @@ This table outlines the **significant improvements** made from the initial **OBA
 ---
 ## [Donation] Your support is invaluable to this project!
 
-Countless hours of hard work, prototyping, and investment in tools and materials have gone into making this project a reality. If you appreciate the effort and would like to contribute, your donation will help us continue developing and improving OBAL_V2.
+Countless hours of hard work, prototyping, and investment in tools and materials have gone into making this project a reality. If you appreciate the effort and would like to contribute, your donation will help us continue developing and improving Pi-Fly.
 
 Please consider donating for the project. There were tremendous effort added in this project. 
 Many prototype boards were built and a lot of tools were purchased to make this project become true.
